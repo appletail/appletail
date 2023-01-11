@@ -5,7 +5,7 @@
 <a href="https://github.com/appletail"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appletail&theme=dracula&layout=compact&langs_count=10" /></a>
   
 
-  ### Won Jae
+  ### Jae Won
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=litan36)](https://solved.ac/litan36/)
    
  ---
