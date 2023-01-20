@@ -60,6 +60,6 @@ How to reach me csappletail@gmail.com
   [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>](https://www.djangoproject.com/) &nbsp;&nbsp; 
   [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>](https://git-scm.com/) &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/) &nbsp;&nbsp; 
-  [<img src="https://img.shields.io/badge/MatterMost-#0058CC?style=for-the-badge&logo=Mattermost&logoColor=white" alt="MatterMost"/>](https://mattermost.com/) &nbsp;&nbsp; 
-
+  [<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white" alt="MatterMost"/>](https://mattermost.com/) &nbsp;&nbsp; 
+  [<img src="https://img.shields.io/badge/Jira-0058CC?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="JiraSoftware"/>](https://mattermost.com/) &nbsp;&nbsp; 
 </div>
