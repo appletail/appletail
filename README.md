@@ -52,6 +52,7 @@ How to reach me csappletail@gmail.com
   [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />]() &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />]() &nbsp;&nbsp;
   [<img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>](https://getbootstrap.com/) &nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Vue-#4FC08D?style=for-the-badge&logo=vue&logoColor=white">
   [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://ko.reactjs.org/) &nbsp;&nbsp; 
     
   ### Software & Development tool
