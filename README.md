@@ -43,7 +43,7 @@ How to reach me csappletail@gmail.com
   ### Programming languages
   [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />]() &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>]() &nbsp;&nbsp;
-  [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />]() &nbsp;&nbsp;
+  [<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">]() &nbsp;&nbsp;
 
 <!--   [<img src="" />]() &nbsp;&nbsp; -->
 
