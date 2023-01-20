@@ -64,4 +64,3 @@ How to reach me csappletail@gmail.com
   [<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white" alt="MatterMost"/>](https://mattermost.com/) &nbsp;&nbsp; 
   [<img src="https://img.shields.io/badge/Jira-0058CC?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="JiraSoftware"/>](https://www.atlassian.com/ko/software/jira) &nbsp;&nbsp; 
 </div>
-https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
