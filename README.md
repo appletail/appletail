@@ -32,10 +32,10 @@ How to reach me csappletail@gmail.com
    사용한 기술 : Django(SSR)       
    맡은 역할 : Django 백엔드 개발
    
-   - [주제에 맞는 장소목록을 추천하는 웹사이트](https://github.com/ssafy8th-python/NaviMap) (2022년 12월 ~ 1월)
-   사용한 기술 : Django(SPA)
-   맡은 역할 : Django 백엔드 개발
-   특이사항 : 개발 중단
+   - [주제에 맞는 장소목록을 추천하는 웹사이트](https://github.com/ssafy8th-python/NaviMap) (2022년 12월 ~ 1월)  
+   사용한 기술 : Django(SPA)  
+   맡은 역할 : Django 백엔드 개발  
+   특이사항 : 개발 중단  
 
 <br>
 
