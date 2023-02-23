@@ -13,7 +13,7 @@
    
 
    
- #### 안녕하세요 개발자 심재원입니다.
+ #### 안녕하세요 프론트 엔드 개발자 심재원입니다.
 How to reach me csappletail@gmail.com
  </div>
  
