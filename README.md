@@ -43,25 +43,25 @@ How to reach me csappletail@gmail.com
 <h2> 사용할 수 있는 기술 </h2>
   
   ### Programming languages
-  [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />]() &nbsp;&nbsp;
+  [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />]() &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>]() &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">]() &nbsp;&nbsp;
 
 <!--   [<img src="" />]() &nbsp;&nbsp; -->
 
   ### Frontend Development
-https://www.typescriptlang.org/
+
   [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />]() &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />]() &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://getbootstrap.com/) &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />](https://tailwindcss.com/) &nbsp;&nbsp;  
   [<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> ](https://vuejs.org/) &nbsp;&nbsp; 
   [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />](https://ko.reactjs.org/) &nbsp;&nbsp; 
-  [<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />](https://ko.reactjs.org/) &nbsp;&nbsp;
+  [<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />](https://www.typescriptlang.org/) &nbsp;&nbsp;
     
   ### Software & Development tool
   
-  [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>](https://www.djangoproject.com/) &nbsp;&nbsp; 
+  [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>](https://www.djangoproject.com/) &nbsp;&nbsp; 
   [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>](https://git-scm.com/) &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/) &nbsp;&nbsp; 
   [<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>](https://about.gitlab.com/) &nbsp;&nbsp; 
