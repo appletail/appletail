@@ -28,15 +28,26 @@ How to reach me csappletail@gmail.com
    
 <br>
    
-   - [토이프로젝트 포트폴리오를 올릴 수 있는 웹사이트](https://github.com/ssafy8th-python/woopolemong) (2022년 9월 ~ 10월)      
-   사용한 기술 : Django(SSR)       
-   맡은 역할 : Django 백엔드 개발
-   
-   - [주제에 맞는 장소목록을 추천하는 웹사이트](https://github.com/ssafy8th-python/NaviMap) (2022년 12월 ~ 2023년 1월)  
-   사용한 기술 : Django(SPA)  
+   - [토이프로젝트 포트폴리오를 올릴 수 있는 웹사이트](https://github.com/ssafy8th-python/woopolemong) (2022년 9월 ~ 2022년 10월)  
+   사용한 기술 : Django(SSR)  
    맡은 역할 : Django 백엔드 개발  
+   특이사항: 첫 프로젝트, Django만 사용
+   
+   - 영화 추천 웹사이트 (2022년 11월 16일 ~ 2022년 11월 24일)  
+   사용한 기술 : Django(SPA), vue.js  
+   맡은 역할 : Django 백엔드 개발 / 회원관리 / 영화목록관리 / 영화 추천 알고리즘  
+   특이사항: 싸피 관통 프로젝트
+   
+   - [주제에 맞는 장소목록을 추천 웹사이트](https://github.com/ssafy8th-python/NaviMap) (2022년 12월 ~ 2023년 1월)  
+   사용한 기술 : Django(SPA), vue.js  
+   맡은 역할 : Django 백엔드 개발 / 회원관리  
    특이사항 : 개발 중단  
-
+   
+   - 이동봉사 중개 사이트 (2023년 01월 10일 ~ 2023년 02월 16일)  
+   사용한 기술 : SpringBoot(SPA), react, typescript  
+   맡은 역할 : 프론트 엔드 개발 / 봉사 신청 및 관리 / 후기 개시판 / 서류 작성  
+   특이사항: 웹 모바일, 싸피 공통 프로젝트, 우수 프로젝트 선정  
+   
 <br>
 
 
