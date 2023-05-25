@@ -21,8 +21,7 @@ How to reach me csappletail@gmail.com
  <div>
     
 <h2> 최근 관심 사항 </h2>
-   - Three.js<br>
-   - 빅데이터 분석
+   - javascript
    
 <h2> 진행한 프로젝트 </h2>
    
