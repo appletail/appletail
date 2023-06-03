@@ -13,45 +13,54 @@
    
 
    
- #### 안녕하세요 프론트 엔드 개발자 심재원입니다.
+즐겁게 공부하며 `FE 개발자`를 꿈꾸는 **심재원**입니다.
+
+**사용자가 만족하는 모습**을 보기 위해 고민하고, 공부하고, 개발합니다.  
+   
 How to reach me csappletail@gmail.com
  </div>
  
 <br>
  <div>
-    
-<h2> 최근 관심 사항 </h2>
-   - javascript
    
 <h2> 진행한 프로젝트 </h2>
    
    
 <br>
    
-   - [토이프로젝트 포트폴리오를 올릴 수 있는 웹사이트](https://github.com/ssafy8th-python/woopolemong) (2022년 9월 ~ 2022년 10월)  
-   사용한 기술 : Django(SSR)  
-   맡은 역할 : Django 백엔드 개발  
-   특이사항: 첫 프로젝트, Django만 사용
+   - [Nogari_원스톱 게시 서비스](https://github.com/orgs/N2B-Service-Nogari/repositories) (2023년 04월 10일 ~ 2023년 05월 22일)  
+   사용한 기술 : SpringBoot, react, typescript, chrome Extensions, AWS lambda  
+   맡은 역할 : 프론트 개발환경 구성 / 사이드바 구현 / 테이블 구현 / notion 게시글 md, html 변환 / 크롬 확장프로그램 개발  
+   특이사항: 웹 페이지, 싸피 자율프로젝트 우수상 (3등), 미래산업 인재육성 컨퍼런스 공모전 대상, 현재   
    
-   - 영화 추천 웹사이트 (2022년 11월 16일 ~ 2022년 11월 24일)  
+   - [PuppyLink_이동봉사 중개 사이트](https://github.com/appletail/PuppyLink) (2023년 01월 10일 ~ 2023년 02월 16일)  
+   사용한 기술 : SpringBoot, react, typescript  
+   맡은 역할 : 프론트 개발환경 구성 / 봉사 신청 및 관리 / 후기 게시판 / 서류 작성  
+   특이사항: 웹 모바일, 싸피 공통프로젝트 우수상(2등)  
+   
+   - [Tink_뜨개 도면 추천 서비스](https://github.com/appletail/Tink) (2023년 02월 20일 ~ 2023년 04월 07일)  
+   사용한 기술 : SpringBoot, react, typescript  
+   맡은 역할 : 프론트 개발환경 구성 / 색 조합 추천 / 커뮤니티 글작성  
+   특이사항: 웹 페이지, 싸피 특화프로젝트  
+   
+   - SCM_영화 추천 웹사이트 (2022년 11월 16일 ~ 2022년 11월 24일)  
    사용한 기술 : Django(SPA), vue.js  
    맡은 역할 : Django 백엔드 개발 / 회원관리 / 영화목록관리 / 영화 추천 알고리즘  
-   특이사항: 싸피 관통 프로젝트
+   특이사항: 싸피 관통 프로젝트  
    
-   - [주제에 맞는 장소목록을 추천 웹사이트](https://github.com/ssafy8th-python/NaviMap) (2022년 12월 ~ 2023년 1월)  
-   사용한 기술 : Django(SPA), vue.js  
+   - [우폴레몽_포트폴리오를 올릴 수 있는 웹사이트](https://github.com/ssafy8th-python/woopolemong) (2022년 9월 ~ 2022년 10월)  
+   사용한 기술 : Django(SSR)  
+   맡은 역할 : Django 백엔드 개발  
+   특이사항: 첫 프로젝트, Django만 사용  
+  
+   - [나비지도_주제에 맞는 장소목록을 추천 웹사이트](https://github.com/ssafy8th-python/NaviMap) (2022년 12월 ~ 2023년 1월)  
+   사용한 기술 : Django, vue.js  
    맡은 역할 : Django 백엔드 개발 / 회원관리  
    특이사항 : 개발 중단  
-   
-   - 이동봉사 중개 사이트 (2023년 01월 10일 ~ 2023년 02월 16일)  
-   사용한 기술 : SpringBoot(SPA), react, typescript  
-   맡은 역할 : 프론트 엔드 개발 / 봉사 신청 및 관리 / 후기 게시판 / 서류 작성  
-   특이사항: 웹 모바일, 싸피 공통 프로젝트, 우수 프로젝트 선정  
-   
 <br>
 
 
-<h2> 사용할 수 있는 기술 </h2>
+<h2> 사용해본 기술 </h2>
   
   ### Programming languages
   [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />]()
