@@ -31,12 +31,19 @@ How to reach me csappletail@gmail.com
    - [Nogari_원스톱 게시 서비스](https://github.com/orgs/N2B-Service-Nogari/repositories) (2023년 04월 10일 ~ 2023년 05월 22일)  
    사용한 기술 : SpringBoot, react, typescript, chrome Extensions, AWS lambda  
    맡은 역할 : 프론트 개발환경 구성 / 사이드바 구현 / 테이블 구현 / notion 게시글 md, html 변환 / 크롬 확장프로그램 개발  
-   특이사항: 웹 페이지, 싸피 자율프로젝트 우수상 (3등), 미래산업 인재육성 컨퍼런스 공모전 대상, 현재   
+   특이사항: 웹 페이지, 싸피 자율프로젝트 우수상 (3등), 미래산업 인재육성 컨퍼런스 공모전 대상, 현재 서비스 중  
+   사이트: [nogari.me](https://www.nogari.me/)  
+   크롬 확장프로그램: [nogari (노션에서 가는 이야기)](https://chrome.google.com/webstore/detail/nogari-%EB%85%B8%EC%85%98%EC%97%90%EC%84%9C-%EA%B0%80%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0/hjdmhaniikfbncdhikfbgfkpchicegfp)  
    
    - [PuppyLink_이동봉사 중개 사이트](https://github.com/appletail/PuppyLink) (2023년 01월 10일 ~ 2023년 02월 16일)  
    사용한 기술 : SpringBoot, react, typescript  
    맡은 역할 : 프론트 개발환경 구성 / 봉사 신청 및 관리 / 후기 게시판 / 서류 작성  
    특이사항: 웹 모바일, 싸피 공통프로젝트 우수상(2등)  
+   
+   - [SSAFYGwangjuLunchBot_광주 싸피 점심메뉴봇](https://github.com/appletail/SSAFYGwangjuLunchBot) (2023년 04월 19일 ~ 2023년 05월 04일)  
+   사용한 기술 : python  
+   맡은 역할 : 디스코드에서 특정 명령어 호출시 점심 메뉴, 고양이 사진, 강아지 사진 전송 기능  
+   특이사항: 디스코드 봇, 1인 개발  
    
    - [Tink_뜨개 도면 추천 서비스](https://github.com/appletail/Tink) (2023년 02월 20일 ~ 2023년 04월 07일)  
    사용한 기술 : SpringBoot, react, typescript  
