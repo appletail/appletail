@@ -2,11 +2,11 @@
 
 <div align="center">
    
-<a href="https://github.com/appletail"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appletail&theme=dracula&layout=compact&langs_count=10" /></a>
   
 
   ### Jae Won
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=litan36)](https://solved.ac/litan36/)
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=litan36)](https://solved.ac/litan36/)&nbsp;&nbsp;&nbsp;&nbsp;
+   ![Solved.ac Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=appletail&theme=dracula&layout=compact&langs_count=10)
    
  ---
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fappletail&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>    
