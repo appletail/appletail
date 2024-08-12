@@ -49,21 +49,7 @@ How to reach me csappletail@gmail.com
    사용한 기술 : SpringBoot, react, typescript  
    맡은 역할 : 프론트 개발환경 구성 / 색 조합 추천 / 커뮤니티 글작성  
    특이사항: 웹 페이지, 싸피 특화프로젝트  
-   
-   - SCM_영화 추천 웹사이트 (2022년 11월 16일 ~ 2022년 11월 24일)  
-   사용한 기술 : Django(SPA), vue.js  
-   맡은 역할 : Django 백엔드 개발 / 회원관리 / 영화목록관리 / 영화 추천 알고리즘  
-   특이사항: 싸피 관통 프로젝트  
-   
-   - [우폴레몽_포트폴리오를 올릴 수 있는 웹사이트](https://github.com/ssafy8th-python/woopolemong) (2022년 9월 ~ 2022년 10월)  
-   사용한 기술 : Django(SSR)  
-   맡은 역할 : Django 백엔드 개발  
-   특이사항: 첫 프로젝트, Django만 사용  
-  
-   - [나비지도_주제에 맞는 장소목록을 추천 웹사이트](https://github.com/ssafy8th-python/NaviMap) (2022년 12월 ~ 2023년 1월)  
-   사용한 기술 : Django, vue.js  
-   맡은 역할 : Django 백엔드 개발 / 회원관리  
-   특이사항 : 개발 중단  
+
 <br>
 
 
