@@ -32,7 +32,6 @@ How to reach me csappletail@gmail.com
    사용한 기술 : SpringBoot, react, typescript, chrome Extensions, AWS lambda  
    맡은 역할 : 프론트 개발환경 구성 / 사이드바 구현 / 테이블 구현 / notion 게시글 md, html 변환 / 크롬 확장프로그램 개발  
    특이사항: 웹 페이지, 싸피 자율프로젝트 우수상 (3등), 미래산업 인재육성 컨퍼런스 공모전 대상, 현재 서비스 중  
-   사이트: [nogari.me](https://www.nogari.me/)  
    크롬 확장프로그램: [nogari (노션에서 가는 이야기)](https://chrome.google.com/webstore/detail/nogari-%EB%85%B8%EC%85%98%EC%97%90%EC%84%9C-%EA%B0%80%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0/hjdmhaniikfbncdhikfbgfkpchicegfp)  
    
    - [PuppyLink_이동봉사 중개 사이트](https://github.com/appletail/PuppyLink) (2023년 01월 10일 ~ 2023년 02월 16일)  
