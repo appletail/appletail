@@ -33,6 +33,11 @@ How to reach me csappletail@gmail.com
    맡은 역할 : scroll animation, modal, carousel, dynamic import 등  
    특이사항: 스팀 스타일의 포트폴리오 사이트, scroll animation, modal, carousel 등을 라이브러리 없이 직접 구현
 
+   - [shortURL_URL 단축 프로그램](https://github.com/appletail/shortURL-App) (2024년 08월 11일 ~ 2024년 08월 13일)  
+   사용한 기술 : Vite, TypeScript, React, axios, electron  
+   맡은 역할 : URL 입력시 단축 URL과 QR 코드를 반환하는 기능  
+   특이사항: electron을 사용한 데스크톱 애플리케이션
+
    - [Nogari_원스톱 게시 서비스](https://github.com/orgs/N2B-Service-Nogari/repositories) (2023년 04월 10일 ~ 2023년 05월 22일)  
    사용한 기술 : SpringBoot, react, typescript, chrome Extensions, AWS lambda  
    맡은 역할 : 프론트 개발환경 구성 / 사이드바 구현 / 테이블 구현 / notion 게시글 md, html 변환 / 크롬 확장프로그램 개발  
