@@ -9,10 +9,8 @@
    ![Solved.ac Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=appletail&theme=dracula&layout=compact&langs_count=10)
    
  ---
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fappletail&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>    
-   
+  
 
-   
 즐겁게 공부하며 `FE 개발자`를 꿈꾸는 **심재원**입니다.
 
 **사용자가 만족하는 모습**을 보기 위해 고민하고, 공부하고, 개발합니다.  
