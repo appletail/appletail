@@ -6,7 +6,6 @@
 
   ### Jae Won
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=litan36)](https://solved.ac/litan36/)&nbsp;&nbsp;&nbsp;&nbsp;
-   ![Solved.ac Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=appletail&theme=dracula&layout=compact&langs_count=10)
    
  ---
   
